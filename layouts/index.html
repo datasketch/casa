@@ -1,13 +1,21 @@
 {{ define "main" }}
-  <section class="px-4 py-32">
+  <section class="px-4 py-36">
     <div class="w-full mx-auto md:w-10/12">
-      <h1 class="font-bold font-ibm-plex-sans text-5xl md:text-7xl">Nuestra casa</h1>
-      <p class="font-ibm-plex-sans text-2xl mt-6">Alguna descripción catchy. Help me, Vero.</p>
+      <div class="max-w-3xl">
+        <h1 class="font-bold font-ibm-plex-sans text-5xl md:text-7xl">
+          Casa Datasketch
+        </h1>
+        <p class="font-ibm-plex-sans text-lg mt-6">
+          Somos una plataforma que quiere fomentar el arte y la cultura tendiendo puentes con las nuevas tecnologías de la información como la ciencia de datos y los encuentros artísticos y culturales. Creemos fervientemente en cultivar un ecosistema social por medio de la colaboración, las alianzas y la participación activa de múltiples sectores. 
+        </p>
+      </div>
     </div>
   </section>
-  <section class="px-4 py-32 bg-cultured">
+  <section class="px-4 pt-16 pb-32 bg-cultured">
     <div class="w-full mx-auto md:w-10/12">
-      <h2 class="text-barbie-pink font-ibm-plex-sans text-center font-bold text-3xl md:text-5xl">Título sensual seductor</h2>
+      <h2 class="text-barbie-pink font-ibm-plex-sans text-center font-bold text-3xl md:text-5xl">
+        Explora
+      </h2>
       <div class="mt-12 grid gap-4 grid-cols-1 sm:grid-cols-2 md:grid-cols-4">
         <div class="bg-soft-white shadow">
           <a href="{{ relref . "charlas" }}" class="flex flex-col items-center p-4 hover:text-barbie-pink">
@@ -49,11 +57,9 @@
           <a href="#" class="flex flex-col items-center p-4 hover:text-barbie-pink">
             <svg xmlns="http://www.w3.org/2000/svg" class="w-16 stroke-current" viewBox="0 0 24 24" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
               <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-              <rect x="4" y="5" width="16" height="16" rx="2" />
-              <line x1="16" y1="3" x2="16" y2="7" />
-              <line x1="8" y1="3" x2="8" y2="7" />
-              <line x1="4" y1="11" x2="20" y2="11" />
-              <rect x="8" y="15" width="2" height="2" />
+              <polyline points="7 8 3 12 7 16" />
+              <polyline points="17 8 21 12 17 16" />
+              <line x1="14" y1="4" x2="10" y2="20" />
             </svg>
             <span class="font-bold uppercase text-sm mt-2">Programación</span>
           </a>
