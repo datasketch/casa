@@ -2,4 +2,3 @@ baseURL = "https://datasketch.casa"
 languageCode = "es"
 title = "Casa Datasketch"
 taxonomies = []
-publishDir = "docs"
