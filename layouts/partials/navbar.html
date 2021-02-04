@@ -11,9 +11,9 @@
     <a class="hidden lg:block" href="{{ .Site.BaseURL }}">
       <img src='{{ "images/logo_h.svg" | absURL }}' alt="Logo Datasketch"/>
     </a>
-    <a class="hover:text-barbie-pink" href="#">Charlas</a>
-    <a class="hover:text-barbie-pink" href="#">Conversaciones</a>
-    <a class="hover:text-barbie-pink" href="#">Exposiciones</a>
+    <a class="hover:text-barbie-pink" href="{{ relref . "charlas" }}">Charlas</a>
+    <a class="hover:text-barbie-pink" href="{{ relref . "conversatorios" }}">Conversatorios</a>
+    <a class="hover:text-barbie-pink" href="{{ relref . "exposiciones" }}">Exposiciones</a>
     <a class="hover:text-barbie-pink" href="#">Programación</a>
     <div class="flex items-center space-x-4">
       <a href="https://twitter.com/datasketch" target="_blank" rel="noopener noreferrer">
