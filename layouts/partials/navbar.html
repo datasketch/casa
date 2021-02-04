@@ -1,0 +1,27 @@
+<nav class="p-4 bg-soft-white font-bold text-sm top-0 sticky z-10 shadow">
+  <div class="flex items-center justify-between lg:hidden">
+    <a href="{{ .Site.BaseURL }}">
+      <img src='{{ "images/logo_h.svg" | absURL }}' alt="Logo Datasketch"/>
+    </a>
+    <button class="focus:outline-none" id="menu-trigger">
+      <svg class="fill-current w-6 h-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 5h16a1 1 0 0 1 0 2H4a1 1 0 1 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2z"></path></svg>
+    </button>
+  </div>
+  <div class="hidden flex-col uppercase space-y-2 absolute w-full bg-soft-white left-0 p-4 items-start shadow-md lg:w-auto lg:space-y-0 lg:static lg:items-center lg:justify-between lg:flex lg:flex-row lg:p-0 lg:shadow-none" id="nav-menu">
+    <a class="hidden lg:block" href="{{ .Site.BaseURL }}">
+      <img src='{{ "images/logo_h.svg" | absURL }}' alt="Logo Datasketch"/>
+    </a>
+    <a class="hover:text-barbie-pink" href="#">Charlas</a>
+    <a class="hover:text-barbie-pink" href="#">Conversaciones</a>
+    <a class="hover:text-barbie-pink" href="#">Exposiciones</a>
+    <a class="hover:text-barbie-pink" href="#">Programación</a>
+    <div class="flex items-center space-x-4">
+      <a href="https://twitter.com/datasketch" target="_blank" rel="noopener noreferrer">
+        <img src='{{"images/tw_black.svg" | absURL }}' alt=""/>
+      </a>
+      <a href="https://www.facebook.com/datasketch/" target="_blank" rel="noopener noreferrer">
+        <img src='{{"images/fb_black.svg" | absURL }}' alt=""/>
+      </a>
+    </div>
+  </div>
+</nav>

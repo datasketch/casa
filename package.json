@@ -1,0 +1,26 @@
+{
+  "name": "casa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datasketch/casa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datasketch/casa/issues"
+  },
+  "homepage": "https://github.com/datasketch/casa#readme",
+  "dependencies": {
+    "tailwindcss": "^2.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.4",
+    "postcss": "^8.2.4"
+  }
+}

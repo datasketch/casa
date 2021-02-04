@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://datasketch.casa/</loc>
+  </url>
+  
+  <url>
+    <loc>https://datasketch.casa/charlas/charla-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://datasketch.casa/charlas/charla-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://datasketch.casa/charlas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://datasketch.casa/conversatorios/</loc>
+  </url>
+  
+  <url>
+    <loc>https://datasketch.casa/conversatorios/conversatorio-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://datasketch.casa/conversatorios/conversatorio-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://datasketch.casa/exposiciones/expo-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://datasketch.casa/exposiciones/expo-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://datasketch.casa/exposiciones/</loc>
+  </url>
+  
+</urlset>
