@@ -5,7 +5,7 @@ draft: false
 description: "En esta sesión de R Users Bogotá, hablaremos de Big Data, abordaremos los conceptos básicos de computación distribuida, Spark y realizaremos una práctica con Sparklyr en databrics"
 ---
 
-**Invitados**: José F Zea.
+**Invitado**: José F Zea.
 
 En esta sesión de R Users Bogotá, hablaremos de Big Data, abordaremos los conceptos básicos de computación distribuida, Spark y realizaremos una práctica con Sparklyr en databrics
 
