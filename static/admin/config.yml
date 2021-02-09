@@ -1,0 +1,87 @@
+backend:
+  name: git-gateway
+
+media_folder: "static/uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: charlas
+    label: Charlas
+    folder: "content/charlas"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Título"
+        name: "title"
+        widget: "string"
+        required: true
+      - label: "Fecha de publicación"
+        name: "date"
+        widget: "datetime"
+        default: ""
+      - label: "Descripción"
+        name: "description"
+        widget: "string"
+      - label: "Contenido"
+        name: "body"
+        widget: "markdown"
+  - name: conversatorios
+    label: Conversatorios
+    folder: "content/conversatorios"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Título"
+        name: "title"
+        widget: "string"
+        required: true
+      - label: "Fecha de publicación"
+        name: "date"
+        widget: "datetime"
+        default: ""
+      - label: "Descripción"
+        name: "description"
+        widget: "string"
+      - label: "Contenido"
+        name: "body"
+        widget: "markdown"
+  - name: exposiciones
+    label: Exposiciones
+    folder: "content/exposiciones"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Título"
+        name: "title"
+        widget: "string"
+        required: true
+      - label: "Fecha de publicación"
+        name: "date"
+        widget: "datetime"
+        default: ""
+      - label: "Descripción"
+        name: "description"
+        widget: "string"
+      - label: "Contenido"
+        name: "body"
+        widget: "markdown"
+  - name: programacion
+    label: Programación
+    folder: "content/programacion"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Título"
+        name: "title"
+        widget: "string"
+        required: true
+      - label: "Fecha de publicación"
+        name: "date"
+        widget: "datetime"
+        default: ""
+      - label: "Descripción"
+        name: "description"
+        widget: "string"
+      - label: "Contenido"
+        name: "body"
+        widget: "markdown"
