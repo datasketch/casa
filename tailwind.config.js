@@ -8,10 +8,10 @@ module.exports = {
         'ibm-plex-sans': ['"IBM Plex Sans"', 'sans-serif']
       },
       colors: {
+        'soft-white': '#fbfdfe',
         charcoal: '#293845',
         'eerie-black': '#222526',
         'barbie-pink': '#da1c95',
-        'soft-white': '#fcfcfc',
         cultured: '#f1f5f7'
       }
     },

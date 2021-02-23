@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400,700&family=Ubuntu:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Ubuntu:wght@400;700&display=swap" rel="stylesheet"> 
   {{ $styles := resources.Get "styles/tailwind.pcss" | toCSS | postCSS | minify }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}">
   {{ if .Title }}
@@ -14,7 +14,7 @@
   {{ end }}
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
-<body class="font-ubuntu text-charcoal">
+<body class="font-ubuntu text-charcoal bg-soft-white">
   {{ partial "navbar.html" . }}
   {{ block "main" . }}{{ end }}
   {{ partial "footer.html" . }}
@@ -29,5 +29,7 @@
       });
     }
   </script>
+  {{ $default := resources.Get "scripts/default.js" }}
+  <script src="{{ $default.Permalink }}"></script>
 </body>
 </html>
