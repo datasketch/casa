@@ -56,7 +56,7 @@
     <div class="grid gap-10 lg:grid-cols-2 xl:grid-cols-3">
       {{ range .Site.RegularPages }}
         <a href="{{.Permalink}}" class="bg-white shadow font-ibm-plex-sans hover:bg-barbie-pink hover:text-white py-6 px-8">
-          <p class="italic capitalize">{{ .Type }}</p>
+          <p class="italic">{{ index $.Site.Data.secciones .Type }}</p>
           <h3 class="mt-4 font-bold text-4xl leading-none">
             {{ .Title }}
           </h3>
