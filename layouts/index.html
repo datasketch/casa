@@ -63,6 +63,12 @@
           <p class="mt-6">
             {{ .Description | truncate 150 }}
           </p>
+          <p class="mt-4 italic font-bold">
+            <span class="capitalize">
+              {{ index $.Site.Data.dias (.Date.Format "Monday") }}, 
+            </span>
+            {{ .Date.Day }} de {{ index $.Site.Data.meses (printf "%d" .Date.Month) }} de {{ .Date.Year }}
+          </p>
         </a>
       {{ end }}
     </div>

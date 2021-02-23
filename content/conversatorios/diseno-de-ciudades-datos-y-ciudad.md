@@ -1,6 +1,6 @@
 ---
 title: "Diseño de ciudades: Datos y ciudad"
-date: 2021-02-04T14:13:44-05:00
+date: 2021-01-28T14:13:44-05:00
 draft: false
 description: "En este encuentro a cuatro voces, conversaremos sobre las ciudades inteligentes, los datos que producimos y consumimos como ciudadanos, el diseño de ciudad que piensan los gobiernos para nosotros y el diseño de ciudad en la que queremos vivir."
 ---
