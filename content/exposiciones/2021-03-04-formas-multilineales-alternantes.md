@@ -1,5 +1,5 @@
 ---
-title: Arte algorítmico
+title: Formas multilineales alternantes
 date: 2021-03-04T19:36:58.239Z
 description: '"Todo está conectado, no hay forma de avanzar sin reconocer que
   somos uno, somos parte de la unidad" nos dice Giacomo Miceli, un artista
