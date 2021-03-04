@@ -1,10 +1,10 @@
 ---
 title: Arte algorítmico
 date: 2021-03-04T19:36:58.239Z
-description: Todo está conectado, no hay forma de avanzar sin reconocer que
-  somos uno, somos parte de la unidad, nos dice Giacomo Miceli, un artista
+description: '"Todo está conectado, no hay forma de avanzar sin reconocer que
+  somos uno, somos parte de la unidad" nos dice Giacomo Miceli, un artista
   italiano que pasó de estudios clásicos a ciencias de la computación a lo largo
-  de su carrera profesional.
+  de su carrera profesional.'
 ---
 \> Everything's connected.. there is no way to go ahead without acknowledging that we're one, we're part of the oneness 
 
