@@ -8,6 +8,8 @@ description: '"Todo está conectado, no hay forma de avanzar sin reconocer que
 ---
 \> Everything's connected.. there is no way to go ahead without acknowledging that we're one, we're part of the oneness 
 
+![](/uploads/screen-shot-2021-03-04-at-1.43.10-pm.png)
+
 Todo está conectado, no hay forma de avanzar sin reconocer que somos uno, somos parte de la unidad, nos dice Giacomo Miceli, un artista italiano que pasó de estudios clásicos a ciencias de la computación a lo largo de su carrera profesional. Actualmente vive en Santa Mónica en Estados Unidos y mientras se desempeña en el mundo de las startups de tecnología, trabaja creando piezas de hardware y software probando múltiples medios que conectan lo análogo con lo digital.
 
 Estamos exponiendo la obra de Giacomo en la exhibición: Formas multilineales alternantes v1½ (alternating multilinear forms v1½)
@@ -20,9 +22,7 @@ Inscríbete en el formulario y sé parte de esta primera exposición:
 
 <https://n9.cl/qc0m>
 
-
-
-![](/uploads/screen-shot-2021-03-04-at-1.43.10-pm.png)
+![]()
 
 ![](/uploads/screen-shot-2021-03-04-at-2.11.27-pm.png)
 
