@@ -6,7 +6,8 @@ description: '"Todo está conectado, no hay forma de avanzar sin reconocer que
   italiano que pasó de estudios clásicos a ciencias de la computación a lo largo
   de su carrera profesional.'
 ---
-\> Everything's connected.. there is no way to go ahead without acknowledging that we're one, we're part of the oneness 
+
+> Everything's connected.. there is no way to go ahead without acknowledging that we're one, we're part of the oneness 
 
 ![](/uploads/screen-shot-2021-03-04-at-1.43.10-pm.png)
 
