@@ -21,7 +21,7 @@ Conoce esta y otras cuatro de sus obras para explorar cómo se conectan las ciud
 
 Inscríbete en el formulario y sé parte de esta primera exposición:
 
-<https://n9.cl/qc0m>
+[REGÍSTRATE AQUÍ PARA ASISTIR A LA EXPOSICIÓN](https://n9.cl/qc0m)
 
 
 
