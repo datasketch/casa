@@ -22,7 +22,7 @@ Inscríbete en el formulario y sé parte de esta primera exposición:
 
 <https://n9.cl/qc0m>
 
-![]()
+
 
 ![](/uploads/screen-shot-2021-03-04-at-2.11.27-pm.png)
 
